@@ -1,0 +1,18 @@
+{
+    "name": "abder/products-api",
+    "autoload": {
+        "psr-4": {
+            "Abder\\ProductsApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abder",
+            "email": "aer17013@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.4"
+    }
+}
